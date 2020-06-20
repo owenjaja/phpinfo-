@@ -4,13 +4,13 @@ languages:
 - php
 products:
 - azure
-description: "This sample demonstrates a tiny Hello World PHP app for App Service."
+description: "This sample demonstrates a tiny PHP app displaying PHPInfo() page for App Service."
 urlFragment: php-docs-hello-world
 ---
 
-# PHP Hello World
+# PHP PHPInfo()
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+This sample demonstrates a PHP app displaying PHPInfo() page for [App Service](https://docs.microsoft.com/azure/app-service).
 
 ## Contributing
 
